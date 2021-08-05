@@ -1,0 +1,4 @@
+numpy==1.19.2
+folium==0.2.1
+imgaug==0.2.5
+opencv-contrib-python
