@@ -14,7 +14,7 @@ A Python Based Script which uses pretrained models to enlarge Image
 
 - [@Dhananjay](https://github.com/Dhananjay-JSR)
 
-##COMPARISION
+## COMPARISION
 
 Original Image
 
