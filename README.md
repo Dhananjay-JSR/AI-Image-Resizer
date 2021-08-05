@@ -22,7 +22,7 @@ To deploy this project run
 Open Google Colab
 
 ---------------------------- 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/Dhananjay-JSR/AI-Image-Resizer-and-bg-remover/blob/main/jupyter-notebook/AI_Image_Resizer_and_bg_remover.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/Dhananjay-JSR/AI-Image-Resizer-and-bg-remover/blob/main/jupyter-nb/AI_Image_Resizer_and_bg_remover.ipynb)
 
 ## IMPORTANT
 
