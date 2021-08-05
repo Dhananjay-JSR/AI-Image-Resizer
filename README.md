@@ -24,7 +24,7 @@ Open Google Colab
 ---------------------------- 
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/Dhananjay-JSR/AI-Image-Resizer-and-bg-remover/blob/main/jupyter-nb/AI_Image_Resizer_and_bg_remover.ipynb)
 
-![Starting VM](https://media.giphy.com/media/5z1jbNc6I9fYR50Dgc/giphy.gif)
+![Starting VM](https://github.com/Dhananjay-JSR/Discord-Bot/blob/master/GIF.gif)
 
 
 ## IMPORTANT
