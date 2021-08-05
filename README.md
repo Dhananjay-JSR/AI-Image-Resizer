@@ -22,7 +22,7 @@ To deploy this project run
 Open Google Colab
 
 ---------------------------- 
-[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColabStable.ipynb)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/drive/1keiP0RmyCxFWw2jToE80stU1addqWk44?usp=sharing)
 
 ## IMPORTANT
 
