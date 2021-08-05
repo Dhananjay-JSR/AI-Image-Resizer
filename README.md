@@ -14,7 +14,11 @@ A Python Based Script which uses pretrained models to enlarge Image
 
 - [@Dhananjay](https://github.com/Dhananjay-JSR)
 
-  
+##COMPARISION
+Original Image 
+![image1](https://github.com/Dhananjay-JSR/AI-Image-Resizer/blob/main/references/compare1.png)
+Processed Image
+![image1](https://github.com/Dhananjay-JSR/AI-Image-Resizer/blob/main/references/compare2.png)
 ## Deployment
 
 To deploy this project run
